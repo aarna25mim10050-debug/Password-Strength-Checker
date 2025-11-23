@@ -19,7 +19,7 @@ INSTALLATION AND SETUP:
 Since this project consists of a single function, installation involves cloning the repository and importing the function into your Python environment.
 Clone the Repository:
 Open your terminal or command prompt and run:
-git clone https://github.com/YourUsername/Password-Strength-Checker.git
+git clone https://github.com/aarna25mim10050-debug/Password-Strength-Checker.git
 cd Password-Strength-Checker
 
 INSTRUCTION FOR TESTING:
